@@ -8,7 +8,7 @@ def display_board(board)
 end
 
 def move(array,index,value)
-  array[index] = value
+  array[index]=value
   return array
 end
 
